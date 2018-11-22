@@ -21,4 +21,4 @@ client.user.setStatus("online")
 
 
 
- client.login("TOKEN");
+ client.login("process.env.TOKEN100");
